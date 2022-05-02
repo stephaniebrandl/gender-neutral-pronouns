@@ -1,0 +1,37 @@
+# FOR NOW
+py/my_utils.py
+py/h5_utils.py
+.gitignore
+
+# files/dirs for testing purposes
+quick_out/
+
+
+# Provo data (too large)
+data/Provo_Corpus-Additional_Eyetracking_Data-Fixation_Report.csv
+data/Provo_Corpus-Eyetracking_Data.csv
+data/Provo_Corpus-Predictability_Norms.csv
+
+# all jupyter notebooks
+*.ipynb
+!demo__*.ipynb
+!analysis__*.ipynb
+!preprocess__*.ipynb
+
+# caches and checkpoints
+__pycache__**
+.ipynb_checkpoints**
+**.vscode**
+.vscode**
+
+#images
+*.png
+
+#log files
+*.out
+
+#pickle
+*.pkl
+
+#shell
+*.sh

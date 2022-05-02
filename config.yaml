@@ -1,0 +1,6 @@
+language: 'en'
+pronoun: 'they'
+
+data_path:
+  eyetracking: ''
+  flow: './data/flows/{}/{}/'
