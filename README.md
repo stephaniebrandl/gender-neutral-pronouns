@@ -1,6 +1,6 @@
 # How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns  
 
-This repository contains code connected to the paper "How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns." accepted at NAACL 2022. 
+This repository contains code connected to the paper ["How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns."](https://aclanthology.org/2022.naacl-main.265.pdf) accepted at NAACL 2022. 
 
 Please refer to the paper for further details.
 
